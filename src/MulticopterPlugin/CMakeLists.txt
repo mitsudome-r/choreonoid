@@ -9,6 +9,7 @@ endif()
 
 set(headers
   RotorDevice.h
+  exportdecl.h
   )
 
 set(sources
